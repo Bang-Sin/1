@@ -24,8 +24,9 @@ https://www.kaggle.com/c/state-farm-distracted-driver-detection
 ### Operate the following steps:
 1. Put the train data set 'imgs/train' near to distracted_driver_detection.ipynb
 2. Put the test data set 'imgs/test' to **'imgs/test/test'** near to distracted_driver_detection.ipynb
-3. Create 'submission' folder near to distracted_driver_detection.ipynb for store output results of CNN models.
-4. Create 'saved_models' folder near to distracted_driver_detection.ipynb for store models with the best validation loss.
+3. Put the 'driver_imgs_list.csv' file near to distracted_driver_detection.ipynb
+4. Create 'submission' folder near to distracted_driver_detection.ipynb for store output results of CNN models.
+5. Create 'saved_models' folder near to distracted_driver_detection.ipynb for store models with the best validation loss.
 
 
 
