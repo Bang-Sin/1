@@ -21,7 +21,7 @@ https://www.kaggle.com/c/state-farm-distracted-driver-detection
 
   https://www.kaggle.com/c/state-farm-distracted-driver-detection/download/driver_imgs_list.csv.zip
 
-### Operate the following steps:
+### Setup: please operate the following steps:
 1. Put the train data set 'imgs/train' near to distracted_driver_detection.ipynb
 2. Put the test data set 'imgs/test' to **'imgs/test/test'** near to distracted_driver_detection.ipynb
 3. Put the 'driver_imgs_list.csv' file near to distracted_driver_detection.ipynb
