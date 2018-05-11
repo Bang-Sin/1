@@ -37,3 +37,10 @@ https://www.kaggle.com/c/state-farm-distracted-driver-detection
 - Numpy
 - Pandas
 - Scikit-learn
+
+
+
+## Output Results:
+1. CNN_1_test_probability.csv
+2. CNN_VGG16_test_probability.csv
+3. CNN_ResNet50_test_probability.csv
