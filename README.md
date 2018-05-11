@@ -46,6 +46,6 @@ https://www.kaggle.com/c/state-farm-distracted-driver-detection
 3. CNN_ResNet50_test_probability.csv
 
 ### Log-loss scores:
-1. CNN_1_test_logloss_score
-2. CNN_VGG16_test_logloss_score
-3. CNN_ResNet50_test_logloss_score
+1. CNN_1_test_logloss_score.jpg
+2. CNN_VGG16_test_logloss_score.jpg
+3. CNN_ResNet50_test_logloss_score.jpg
